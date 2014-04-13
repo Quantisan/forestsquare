@@ -2,6 +2,8 @@
 
 Forestsquare is a SpaceAppsBoston hackathon project for Earthwatch Institute.
 
+![diameter tape](images/tape.jpg)
+
 ## Problem
 
 Urban trees are a bit of nature that we come into contact in our cities, yet we know little about how our artificial condition affect them.
