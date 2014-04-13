@@ -1,6 +1,6 @@
 # Forestsquare
 
-Forestsquare is a SpaceAppsBoston hackathon project for Earthwatch Institute.
+Foresetsquare is a mobile app to let you tag trees in your neighbourhood for science! This project is developed during the 2014 SpaceAppsBoston hackathon project for Earthwatch Institute.
 
 ![diameter tape](images/tape.jpg)
 
@@ -16,6 +16,7 @@ Main documentation is on [Hackpad](https://hackpad.com/Earthwatch-Spaceapps-Urba
 
 ## Mobile App
 
+Coming soon
 
 ## Backend API
 
