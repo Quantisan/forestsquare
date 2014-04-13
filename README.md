@@ -12,7 +12,7 @@ With thousands of trees and only a handful of volunteers, there is a limit to ho
 
 ## Project Document
 
-Main documentation is on [Hackpad](https://hackpad.com/Earthwatch-Spaceapps-Urban-Trees-Citizen-Science-PFRgzoYnhOr)
+[Main documentation is on Hackpad](http://bit.ly/earthwatch-spaceappsboston2014)
 
 ## Mobile App
 
