@@ -12,11 +12,11 @@ With thousands of trees and only a handful of volunteers, there is a limit to ho
 
 ## Project Document
 
-[Main documentation is on Hackpad](http://bit.ly/earthwatch-spaceappsboston2014)
+[Main documentation is on Hackpad](http://bit.ly/earthwatch-spaceappsboston2014). Be sure to check that as much of the project mission, rationale, considerations, etc. are documented there.
 
 ## Mobile App
 
-Coming soon
+In [/ios subfolder](/ios) of this repository are the Unity project files for the mobile app. A [playable demo is available online](http://testtubegames.com/forestSquare/forestSquare.html).
 
 ## Backend API
 
