@@ -33,7 +33,7 @@ def recordTree(treeId, height, radius, locationX, locationY, species):
     # for the attachment. At a minimum, the Resource contains the binary attachment
     # data, an MD5 hash of the binary data, and the attachment MIME type.
     # It can also include attributes such as filename and location.
-    image = open('images/TiliaCordata.jpg', 'rb').read()
+    image = open('images/450px-Tree.jpg', 'rb').read()
     md5 = hashlib.md5()
     md5.update(image)
     hash = md5.digest()
