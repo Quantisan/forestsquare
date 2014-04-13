@@ -23,5 +23,12 @@ def get_create_tree(treeId):
         print "Unexpected error: ", sys.exc_info()[0]
         return
 
+@app.get('/crossdomain.xml')
+def get_crossdomain():
+    return """<?xml version="1.0"?>
+            <cross-domain-policy>
+            <allow-access-from domain="*" />
+            </cross-domain-policy>"""
+
 if __name__ == "__main__":
     run(app, host='localhost', port=8080, reloader=True, debug=True)
